@@ -92,19 +92,27 @@
 
 <div align="center">
 
-  <!-- Modern Dynamic Activity Wave Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiyuniPathirana&bg_color=0d1117&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="98%" alt="Contribution Flow" />
+  <!-- 1. Developer Trophies & Milestones Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiyuniPathirana&theme=onedark&no-frame=true&margin-w=6&column=6" width="98%" alt="GitHub Achievements" />
 
   <br><br>
 
-  <!-- High-Tech Stats & Language Metrics (Tokyo Night / Neon Style) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Top Languages" />
+  <!-- 2. Dual Performance & Activity Overview -->
+  <p align="center">
+    <!-- Overall Stats Card (Clean Dark Frame) -->
+    <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0f172a" width="48%" alt="GitHub Stats" />
+    &nbsp;
+    <!-- Contribution Streak Card (Clean Matched Dark) -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&theme=tokyonight&hide_border=true&border_radius=12&background=0f172a" width="48%" alt="GitHub Streak" />
+  </p>
 
 </div>
 
 ---
 
+<!-- ================= PREMIUM GLOWING PROFILE VIEWS ================= -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThiyuniPathirana&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/ThiyuniPathirana">
+    <img src="https://komarev.com/ghpvc/?username=ThiyuniPathirana&label=%E2%9C%A8%20PROFILE%20VISITORS&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>

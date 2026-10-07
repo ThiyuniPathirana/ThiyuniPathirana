@@ -92,27 +92,20 @@
 
 <div align="center">
 
-  <!-- 1. Developer Trophies & Milestones Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiyuniPathirana&theme=onedark&no-frame=true&margin-w=6&column=6" width="98%" alt="GitHub Achievements" />
-
-  <br><br>
-
-  <!-- 2. Dual Performance & Activity Overview -->
+  <!-- White Embossed Aesthetic Cards -->
   <p align="center">
-    <!-- Overall Stats Card (Clean Dark Frame) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0f172a" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&bg_color=FFFFFF&title_color=0284C7&text_color=1E293B&icon_color=0284C7&border_radius=14&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
     &nbsp;
-    <!-- Contribution Streak Card (Clean Matched Dark) -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&theme=tokyonight&hide_border=true&border_radius=12&background=0f172a" width="48%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&background=FFFFFF&ring=0284C7&fire=EA580C&currStreakLabel=0284C7&sideNums=1E293B&sideLabels=64748B&dates=64748B&border=E2E8F0&border_radius=14" width="48%" alt="GitHub Streak" />
   </p>
 
 </div>
 
 ---
 
-<!-- ================= PREMIUM GLOWING PROFILE VIEWS ================= -->
+<!-- ================= EMBOSSED CLEAN PROFILE VIEWS ================= -->
 <div align="center">
   <a href="https://github.com/ThiyuniPathirana">
-    <img src="https://komarev.com/ghpvc/?username=ThiyuniPathirana&label=%E2%9C%A8%20PROFILE%20VISITORS&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ThiyuniPathirana&label=%F0%9F%91%80%20PROFILE%20VIEWS&color=0284C7&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>

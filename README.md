@@ -39,8 +39,8 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Graduation Kitty Direct Working Image -->
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="160px" alt="Graduation Kitty" />
+      <!-- Graduation Kitty Illustration -->
+      <img src="https://static.vecteezy.com/system/resources/previews/056/962/390/non_2x/graduation-cat-in-cartoon-style-cats-wearing-graduation-hat-vector.jpg" width="160px" alt="Graduation Kitty" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>

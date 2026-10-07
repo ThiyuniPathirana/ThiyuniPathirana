@@ -1,30 +1,23 @@
 <div align="center">
 
-  <!-- ================= HEADER BANNER ================= -->
-  <!-- Dark Mode Animated Banner -->
-  <a href="https://thiyuniportfolio.vercel.app/#gh-dark-mode-only">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,23,42,88,28,135&height=220&section=header&text=THIYUNI%20KEHARA&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SLIIT&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Dark" />
-  </a>
-  <!-- Light Mode Animated Banner -->
-  <a href="https://thiyuniportfolio.vercel.app/#gh-light-mode-only">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=192,132,252,56,189,248&height=220&section=header&text=THIYUNI%20KEHARA&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SLIIT&descFontSize=17&descAlignY=62&fontColor=0f172a" width="100%" alt="Header Light" />
-  </a>
+  <!-- ================= DYNAMIC GRADIENT HEADER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,88&height=220&section=header&text=THIYUNI%20KEHARA&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SLIIT&descFontSize=17&descAlignY=62&fontColor=000000" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Typing SVG Subtitle -->
+  <!-- Dynamic Typing Label -->
   <p align="center">
     <a href="https://thiyuniportfolio.vercel.app/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=75&lines=Building+Aesthetic+Interfaces+%26+Robust+Backends;BSc+(Hons)+IT+Undergraduate+%40+SLIIT;Ex-MIS+Executive+%7C+Ex-Web+Dev+Intern" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=75&lines=Building+Aesthetic+Interfaces+%26+Robust+Backends;BSc+(Hons)+IT+Undergraduate+%40+SLIIT;Ex-MIS+Executive+%7C+Ex-Web+Dev+Intern" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- ================= ACTION BUTTONS ================= -->
+  <!-- ================= LOGO BUTTONS ================= -->
   <p align="center">
     <a href="https://thiyuniportfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=00f2fe&labelColor=1f2937" alt="Portfolio" height="38"/>
+      <img src="https://img.shields.io/badge/PORTFOLIO-E2E8F0?style=for-the-badge&logo=googlechrome&logoColor=EA580C&labelColor=F8FAFC" alt="Portfolio" height="40" />
     </a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN%20PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" alt="LinkedIn" height="38"/>
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=004182" alt="LinkedIn" height="40" />
     </a>
   </p>
 
@@ -41,13 +34,13 @@
         <li>🎓 <b>BSc (Hons) in Information Technology</b> (4th Year, 1st Sem) at <b>SLIIT</b>.</li>
         <li>🏢 <b>Former MIS Executive</b> at <b>Nilkamal Eswaran Plastics</b> – Engineered business analytics, automated operational reporting, and streamlined information flows.</li>
         <li>💻 <b>Former Web Developer Intern</b> at <b>Centre for Defence Research and Development (CDRD)</b> – Built enterprise leave and quotation management portals.</li>
-        <li>🎨 Deep passion for <b>Liquid Glass & Neumorphic UI/UX design</b> paired with scalable, production-grade cloud code.</li>
+        <li>🎨 Deep passion for <b>Liquid Glass UI/UX design</b> paired with scalable, production-grade cloud code.</li>
         <li>💡 Actively engineering full-stack MERN & Spring Boot applications with automated testing frameworks.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Aesthetic Developer Coding Illustration -->
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/PatPat.gif" width="180px" alt="Coding Art" />
+      <!-- Graduation Cat Illustration -->
+      <img src="https://images.squarespace-cdn.com/content/v1/528a478be4b067a360dc0cb9/1591891963212-074G56Z5QO11O8K29G02/GradCat_SocialGraphic_800.gif" width="170px" alt="Graduation Cat" />
     </td>
   </tr>
 </table>
@@ -80,7 +73,7 @@
 
   <br>
 
-  #### Testing & Automation
+  #### Testing & Tools
   <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="46" height="46"/></a>&nbsp;&nbsp;
   <a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="46" height="46"/></a>&nbsp;&nbsp;
   <a href="https://postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="46" height="46"/></a>&nbsp;&nbsp;
@@ -90,23 +83,18 @@
 
 ---
 
-### 📈 Analytics & GitHub Charts
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-  <!-- Interactive Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiyuniPathirana&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
+  <!-- Off-White / Clean Minimalist Graphs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=12&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&border_radius=12&border_color=E2E8F0" width="48%" alt="Top Languages" />
 
   <br><br>
 
-  <!-- GitHub Metric Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-
-  <br><br>
-
-  <!-- Streak Metrics -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&theme=radical&hide_border=true" width="97%" alt="Streak Graph" />
+  <!-- Streak Metric Card (Matching Off-White Embossed Look) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&theme=nord&background=F8FAFC&ring=0284C7&fire=EA580C&currStreakLabel=0284C7&border=E2E8F0&border_radius=12" width="97%" alt="Streak Graph" />
 
 </div>
 
@@ -121,7 +109,6 @@ const thiyuni = {
   education: "BSc (Hons) in Information Technology @ SLIIT",
   industryRoles: ["Ex-MIS Executive @ Nilkamal", "Ex-Web Dev Intern @ CDRD"],
   stackArchitecture: ["MERN Stack", "Spring Boot", "AWS Cloud", "Automated QA"],
-  designAesthetics: ["Glassmorphism", "Fluid Micro-Interactions", "Responsive Design"],
   portfolio: "[https://thiyuniportfolio.vercel.app/](https://thiyuniportfolio.vercel.app/)",
-  getInTouch: () => "[https://linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/](https://linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/)"
+  linkedIn: "[https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/](https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/)"
 };

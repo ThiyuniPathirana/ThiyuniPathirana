@@ -2,21 +2,21 @@
 
   <h1>Hi there, I'm Thiyuni Kehara Sesadee Pathirana 👋</h1>
 
-  <!-- Dynamic Typing SVG Banner (Dark Cyber Theme) -->
+  <!-- Dynamic Cyber/Dark Glass Label -->
   <p align="center">
     <a href="https://thiyuniportfolio.vercel.app/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Web+Developer+%7C+UI%2FUX+Designer;BSc+(Hons)+IT+Undergraduate+%40+SLIIT;Passionate+about+Modern+Architectures+%26+Aesthetics" alt="Typing Banner" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&background=0D1117CC&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=Full-Stack+Web+Developer+%E2%9C%A8+UI%2FUX+Designer;BSc+(Hons)+IT+Undergraduate+%40+SLIIT;Crafting+Modern+Fluid+Interfaces+%26+Aesthetic+Code" alt="Dynamic Glass Label" />
     </a>
   </p>
 
-  <!-- Modern Glass-Style Action Buttons -->
+  <!-- Liquid Glass / Glassmorphism Style Action Buttons -->
   <p align="center">
     <a href="https://thiyuniportfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/⚡_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00f2fe&labelColor=161B22" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/%E2%9C%A8_Live_Portfolio-rgba(255,255,255,0.15)?style=for-the-badge&logo=vercel&logoColor=00f2fe&labelColor=21262d" alt="Portfolio" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/" target="_blank">
-      <img src="https://img.shields.io/badge/💼_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=161B22" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn_Profile-rgba(255,255,255,0.15)?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=21262d" alt="LinkedIn" />
     </a>
   </p>
 

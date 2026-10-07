@@ -88,10 +88,21 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Metrics & Activity Breakdown
 
 <div align="center">
 
+  <!-- 3D Isometric Contribution Grid (Like in your image) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiyuniPathirana&theme=flat&no-frame=true&margin-w=4" width="98%" alt="GitHub Trophies" />
+
+  <br><br>
+
+  <!-- Activity & Commits Area Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiyuniPathirana&theme=nord&bg_color=F8FAFC&color=0284C7&line=0284C7&point=EA580C&hide_border=true&area=true" width="98%" alt="Activity Flow" />
+
+  <br><br>
+
+  <!-- Clean Off-White Metric Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=12&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&border_radius=12&border_color=E2E8F0" width="48%" alt="Top Languages" />
 

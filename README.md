@@ -99,3 +99,15 @@
 
 ---
 
+### 💻 Developer Snapshot
+
+```javascript
+const thiyuni = {
+  fullName: "Thiyuni Kehara Sesadee Pathirana",
+  currentRole: "Full-Stack Web Developer & UI/UX Designer",
+  education: "BSc (Hons) in Information Technology @ SLIIT",
+  industryRoles: ["Ex-MIS Executive @ Nilkamal", "Ex-Web Dev Intern @ CDRD"],
+  stackArchitecture: ["MERN Stack", "Spring Boot", "AWS Cloud", "Automated QA"],
+  portfolio: "[https://thiyuniportfolio.vercel.app/](https://thiyuniportfolio.vercel.app/)",
+  linkedIn: "[https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/](https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/)"
+};

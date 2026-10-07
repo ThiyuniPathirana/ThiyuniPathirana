@@ -88,37 +88,23 @@
 
 ---
 
-### 📊 GitHub Metrics & Activity Breakdown
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-  <!-- 3D Isometric Contribution Grid (Like in your image) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiyuniPathirana&theme=flat&no-frame=true&margin-w=4" width="98%" alt="GitHub Trophies" />
+  <!-- Modern Dynamic Activity Wave Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiyuniPathirana&bg_color=0d1117&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="98%" alt="Contribution Flow" />
 
   <br><br>
 
-  <!-- Activity & Commits Area Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiyuniPathirana&theme=nord&bg_color=F8FAFC&color=0284C7&line=0284C7&point=EA580C&hide_border=true&area=true" width="98%" alt="Activity Flow" />
-
-  <br><br>
-
-  <!-- Clean Off-White Metric Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=12&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&border_radius=12&border_color=E2E8F0" width="48%" alt="Top Languages" />
+  <!-- High-Tech Stats & Language Metrics (Tokyo Night / Neon Style) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Top Languages" />
 
 </div>
 
 ---
 
-### 💻 Developer Snapshot
-
-```javascript
-const thiyuni = {
-  fullName: "Thiyuni Kehara Sesadee Pathirana",
-  currentRole: "Full-Stack Web Developer & UI/UX Designer",
-  education: "BSc (Hons) in Information Technology @ SLIIT",
-  industryRoles: ["Ex-MIS Executive @ Nilkamal", "Ex-Web Dev Intern @ CDRD"],
-  stackArchitecture: ["MERN Stack", "Spring Boot", "AWS Cloud", "Automated QA"],
-  portfolio: "[https://thiyuniportfolio.vercel.app/](https://thiyuniportfolio.vercel.app/)",
-  linkedIn: "[https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/](https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/)"
-};
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThiyuniPathirana&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+</div>

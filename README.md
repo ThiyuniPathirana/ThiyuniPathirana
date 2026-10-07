@@ -2,22 +2,21 @@
 
   <h1>Hi there, I'm Thiyuni Kehara Sesadee Pathirana 👋</h1>
 
-  <p>
-    🚀 <b>Full-Stack Web Developer | UI/UX Designer | IT Undergraduate @ SLIIT</b>
-  </p>
-
-  <p>
-    <i>Passionate about bridging aesthetic UI/UX with high-performance, scalable code.</i>
-  </p>
-
-  <!-- Quick Action Badges -->
-  <p>
-    <a href="https://thiyuniportfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-00D26A?style=for-the-badge" alt="Portfolio" />
+  <!-- Dynamic Typing SVG Banner (Dark Cyber Theme) -->
+  <p align="center">
+    <a href="https://thiyuniportfolio.vercel.app/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Web+Developer+%7C+UI%2FUX+Designer;BSc+(Hons)+IT+Undergraduate+%40+SLIIT;Passionate+about+Modern+Architectures+%26+Aesthetics" alt="Typing Banner" />
     </a>
-    &nbsp;
+  </p>
+
+  <!-- Modern Glass-Style Action Buttons -->
+  <p align="center">
+    <a href="https://thiyuniportfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/⚡_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00f2fe&labelColor=161B22" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/💼_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=161B22" alt="LinkedIn" />
     </a>
   </p>
 
@@ -80,7 +79,7 @@
 
 <p align="center">
   <a href="https://thiyuniportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-thiyuniportfolio.vercel.app-00D26A?style=flat-square" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-thiyuniportfolio.vercel.app-161B22?style=flat-square" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/" target="_blank">

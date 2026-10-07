@@ -27,23 +27,24 @@
 
 ### 👩‍💻 About Me
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <ul>
-        <li>🎓 <b>BSc (Hons) in Information Technology</b> (4th Year, 1st Sem) at <b>SLIIT</b>.</li>
-        <li>🏢 <b>Former MIS Executive</b> at <b>Nilkamal Eswaran Plastics</b> – Engineered business analytics, automated operational reporting, and streamlined information flows.</li>
-        <li>💻 <b>Former Web Developer Intern</b> at <b>Centre for Defence Research and Development (CDRD)</b> – Built enterprise leave and quotation management portals.</li>
-        <li>🎨 Deep passion for <b>Liquid Glass UI/UX design</b> paired with scalable, production-grade cloud code.</li>
-        <li>💡 Actively engineering full-stack MERN & Spring Boot applications with automated testing frameworks.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Graduation Kitty Illustration -->
-      <img src="https://static.vecteezy.com/system/resources/previews/056/962/390/non_2x/graduation-cat-in-cartoon-style-cats-wearing-graduation-hat-vector.jpg" width="160px" alt="Graduation Kitty" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" style="border: none !important; border-collapse: collapse;">
+    <tr style="border: none !important;">
+      <td width="70%" valign="top" style="border: none !important; text-align: left;">
+        <ul>
+          <li>🎓 <b>BSc (Hons) in Information Technology</b> (4th Year, 1st Sem) at <b>SLIIT</b>.</li>
+          <li>🏢 <b>Former MIS Executive</b> at <b>Nilkamal Eswaran Plastics</b> – Engineered business analytics, automated operational reporting, and streamlined information flows.</li>
+          <li>💻 <b>Former Web Developer Intern</b> at <b>Centre for Defence Research and Development (CDRD)</b> – Built enterprise leave and quotation management portals.</li>
+          <li>🎨 Deep passion for <b>Liquid Glass UI/UX design</b> paired with scalable, production-grade cloud code.</li>
+          <li>💡 Actively engineering full-stack MERN & Spring Boot applications with automated testing frameworks.</li>
+        </ul>
+      </td>
+      <td width="30%" align="center" valign="middle" style="border: none !important;">
+        <img src="https://static.vecteezy.com/system/resources/previews/056/962/390/non_2x/graduation-cat-in-cartoon-style-cats-wearing-graduation-hat-vector.jpg" width="165px" alt="Graduation Kitty" style="border-radius: 12px; display: block;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -52,32 +53,45 @@
 <div align="center">
 
   #### Frontend & User Experience
-  <a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="46" height="46"/></a>
+  <a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.canva.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="44" height="44"/></a>
 
-  <br>
+  <br><br>
 
   #### Backend, Cloud & Databases
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="46" height="46"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="44" height="44"/></a>
 
-  <br>
+  <br><br>
 
-  #### Testing & Tools
-  <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="46" height="46"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="46" height="46"/></a>
+  #### Testing & Automation
+  <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="44" height="44"/></a>
+
+  <br><br>
+
+  #### Productivity, MIS & Project Management
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="44" height="44"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" alt="Word" width="44" height="44"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="44" height="44"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="44" height="44"/>&nbsp;&nbsp;
+  <a href="https://www.jira.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://www.notion.so"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="44" height="44"/></a>&nbsp;&nbsp;
+  <a href="https://trello.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" width="44" height="44"/></a>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/clickup.png" alt="ClickUp" width="44" height="44"/>
 
 </div>
 
@@ -87,14 +101,22 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=12&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&border_radius=12&border_color=E2E8F0" width="48%" alt="Top Languages" />
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&theme=nord&background=F8FAFC&ring=0284C7&fire=EA580C&currStreakLabel=0284C7&border=E2E8F0&border_radius=12" width="97%" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=12&border_color=CBD5E1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&border_radius=12&border_color=CBD5E1" width="48%" alt="Top Languages" />
 
 </div>
 
 ---
 
+### 💻 Developer Snapshot
+
+```javascript
+const thiyuni = {
+  fullName: "Thiyuni Kehara Sesadee Pathirana",
+  currentRole: "Full-Stack Web Developer & UI/UX Designer",
+  education: "BSc (Hons) in Information Technology @ SLIIT",
+  industryRoles: ["Ex-MIS Executive @ Nilkamal", "Ex-Web Dev Intern @ CDRD"],
+  stackArchitecture: ["MERN Stack", "Spring Boot", "AWS Cloud", "Automated QA"],
+  portfolio: "[https://thiyuniportfolio.vercel.app/](https://thiyuniportfolio.vercel.app/)",
+  linkedIn: "[https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/](https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/)"
+};

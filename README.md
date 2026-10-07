@@ -92,9 +92,9 @@
 
 <div align="center">
 
-  <!-- White Embossed Aesthetic Cards -->
+  <!-- White Embossed Aesthetic Cards with Custom Short Title -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&bg_color=FFFFFF&title_color=0284C7&text_color=1E293B&icon_color=0284C7&border_radius=14&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&custom_title=GitHub%20Stats&show_icons=true&bg_color=FFFFFF&title_color=0284C7&text_color=1E293B&icon_color=0284C7&border_radius=14&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
     &nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&background=FFFFFF&ring=0284C7&fire=EA580C&currStreakLabel=0284C7&sideNums=1E293B&sideLabels=64748B&dates=64748B&border=E2E8F0&border_radius=14" width="48%" alt="GitHub Streak" />
   </p>

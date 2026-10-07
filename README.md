@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- ================= MULTI-COLOR GRADIENT HEADER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,24,30&height=220&section=header&text=THIYUNI%20KEHARA&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SLIIT&descFontSize=17&descAlignY=62&fontColor=000000" width="100%" alt="Header Banner" />
+  <!-- ================= VIBRANT CYAN PURPLE BLUE GRADIENT HEADER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,88,14&height=240&section=header&text=THIYUNI%20KEHARA&fontSize=42&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SLIIT&descFontSize=17&descAlignY=58&fontColor=000000" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Typing Label (Black Text, Full Visibility Without Cut-off) -->
+  <!-- Dynamic Typing Label (Clean Black Text) -->
   <p align="center">
     <a href="https://thiyuniportfolio.vercel.app/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+Aesthetic+Interfaces+%26+Robust+Backends;Full-Stack+Web+Developer+%7C+UI%2FUX+Designer;BSc+(Hons)+IT+Undergraduate+%40+SLIIT" alt="Typing SVG" />
@@ -39,8 +39,8 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Graduation Kitty Illustration -->
-      <img src="https://img.freepik.com/premium-vector/cute-cat-wearing-graduation-costume-cap-glasses-cartoon-illustration_538211-131.jpg" width="160px" alt="Graduation Kitty" style="border-radius: 12px;" />
+      <!-- Graduation Kitty Direct Working Image -->
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="160px" alt="Graduation Kitty" />
     </td>
   </tr>
 </table>

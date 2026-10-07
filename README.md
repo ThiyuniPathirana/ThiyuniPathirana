@@ -1,23 +1,23 @@
 <div align="center">
 
-  <!-- ================= DYNAMIC GRADIENT HEADER ================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,88&height=220&section=header&text=THIYUNI%20KEHARA&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SLIIT&descFontSize=17&descAlignY=62&fontColor=000000" width="100%" alt="Header Banner" />
+  <!-- ================= MULTI-COLOR GRADIENT HEADER ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,24,30&height=220&section=header&text=THIYUNI%20KEHARA&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SLIIT&descFontSize=17&descAlignY=62&fontColor=000000" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Typing Label -->
+  <!-- Dynamic Typing Label (Black Text, Full Visibility Without Cut-off) -->
   <p align="center">
     <a href="https://thiyuniportfolio.vercel.app/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=75&lines=Building+Aesthetic+Interfaces+%26+Robust+Backends;BSc+(Hons)+IT+Undergraduate+%40+SLIIT;Ex-MIS+Executive+%7C+Ex-Web+Dev+Intern" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+Aesthetic+Interfaces+%26+Robust+Backends;Full-Stack+Web+Developer+%7C+UI%2FUX+Designer;BSc+(Hons)+IT+Undergraduate+%40+SLIIT" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- ================= LOGO BUTTONS ================= -->
+  <!-- ================= SQUARE LOGO BUTTONS ================= -->
   <p align="center">
-    <a href="https://thiyuniportfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-E2E8F0?style=for-the-badge&logo=googlechrome&logoColor=EA580C&labelColor=F8FAFC" alt="Portfolio" height="40" />
+    <a href="https://thiyuniportfolio.vercel.app/" target="_blank" title="Visit Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=EA580C" height="38" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=004182" alt="LinkedIn" height="40" />
+    <a href="https://www.linkedin.com/in/thiyuni-kehara-sesadee-pathirana-344404320/" target="_blank" title="Connect on LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="38" alt="LinkedIn" />
     </a>
   </p>
 
@@ -39,8 +39,8 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Graduation Cat Illustration -->
-      <img src="https://images.squarespace-cdn.com/content/v1/528a478be4b067a360dc0cb9/1591891963212-074G56Z5QO11O8K29G02/GradCat_SocialGraphic_800.gif" width="170px" alt="Graduation Cat" />
+      <!-- Graduation Kitty Illustration -->
+      <img src="https://img.freepik.com/premium-vector/cute-cat-wearing-graduation-costume-cap-glasses-cartoon-illustration_538211-131.jpg" width="160px" alt="Graduation Kitty" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
@@ -87,13 +87,11 @@
 
 <div align="center">
 
-  <!-- Off-White / Clean Minimalist Graphs -->
   <img src="https://github-readme-stats.vercel.app/api?username=ThiyuniPathirana&show_icons=true&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&icon_color=0284C7&border_radius=12&border_color=E2E8F0" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiyuniPathirana&layout=compact&theme=nord&bg_color=F8FAFC&title_color=0284C7&text_color=334155&border_radius=12&border_color=E2E8F0" width="48%" alt="Top Languages" />
 
   <br><br>
 
-  <!-- Streak Metric Card (Matching Off-White Embossed Look) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiyuniPathirana&theme=nord&background=F8FAFC&ring=0284C7&fire=EA580C&currStreakLabel=0284C7&border=E2E8F0&border_radius=12" width="97%" alt="Streak Graph" />
 
 </div>
